@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9b4e4ed-6bf4-4d5e-b62b-73e6b120ab37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gzdx1fRYzmkESK9E6k1i1t4FlK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/src/tiyi/载重" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\tiyi\载重" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\tiyi\pyspark" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\tiyi" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\region_feature" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\craw" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src\regular_rout_detect" />
+      <recent name="C:\Users\rb813\PycharmProjects\Data_Lab\venv\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Data_Lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SPRAK_HOME" value="C:\Software\spark-2.4.3-bin-hadoop2.7" />
+        <env name="PYTHONPATH" value="C:\Software\spark-2.4.3-bin-hadoop2.7\python\libpy4j-0.10.7-src.zip" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rb813\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b4e4ed-6bf4-4d5e-b62b-73e6b120ab37" name="Default Changelist" comment="" />
+      <created>1599121597572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599121597572</updated>
+      <workItem from="1599121603248" duration="62032000" />
+      <workItem from="1599616462582" duration="28895000" />
+      <workItem from="1600069362415" duration="18703000" />
+      <workItem from="1600305783232" duration="6335000" />
+      <workItem from="1600671814009" duration="8686000" />
+      <workItem from="1600744623816" duration="28371000" />
+      <workItem from="1601261157589" duration="7635000" />
+      <workItem from="1602486799043" duration="9981000" />
+      <workItem from="1602640688235" duration="10324000" />
+      <workItem from="1603070928754" duration="12630000" />
+      <workItem from="1603696795771" duration="75662000" />
+      <workItem from="1604562178203" duration="3813000" />
+      <workItem from="1605077553256" duration="29661000" />
+      <workItem from="1605578398448" duration="194575000" />
+      <workItem from="1606555246250" duration="3155000" />
+      <workItem from="1606701443671" duration="33387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2498" y="201" key="#SQL_Dialects" timestamp="1604485522265">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2498" y="201" key="#SQL_Dialects/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604485522265" />
+    <state x="617" y="215" key="#SQL_Dialects/0.0.2048.1112@0.0.2048.1112" timestamp="1599139436426" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599122731851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599122731851" />
+    <state x="503" y="175" key="EnvironmentVariablesDialog" timestamp="1599122714804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="175" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599122714804" />
+    <state x="408" y="269" key="FileChooserDialogImpl" timestamp="1607006344906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="269" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607006344906" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1606384748980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606384748980" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605783099330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1605783099330" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1606701455435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605077553268" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1606701455435" />
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup" timestamp="1606963144487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="180" width="672" height="504" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606459265506" />
+    <state x="2564" y="227" width="840" height="635" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604472291931" />
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606963144487" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1599147372498" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/src/primary/DELabelingBasicAttributesJob.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
